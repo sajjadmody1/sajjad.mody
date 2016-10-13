@@ -244,7 +244,7 @@ function create_config( )
     "shelp"
 
     },
-    sudo_users = { 0,tonumber(our_id)},--Sudo users
+    sudo_users = { 0,tonumber(128140648,0)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[! Masters Bot 2.1v 🔰
 
