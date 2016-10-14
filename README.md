@@ -86,7 +86,6 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ##### The advanced administration bot based on Tg-Cli. 🌐
 
 ##### It was built on a platform TeleSeed after it has been modified.🔧🌐
-
 # Developer🔰
 ### [@iDev1](https://telegram.me/iDev1)
 
